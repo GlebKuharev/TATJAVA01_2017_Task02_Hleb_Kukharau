@@ -1,0 +1,6 @@
+4 dumbbells weightlifting 22
+5 snowboard wintersports 55
+1 ski wintersports 56
+3 ball fitness 12
+4 ball soccer 14
+4 barbell weightlifting 25
